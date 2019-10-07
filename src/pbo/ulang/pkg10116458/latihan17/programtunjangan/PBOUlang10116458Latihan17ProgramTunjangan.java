@@ -9,7 +9,9 @@ import java.util.Scanner;
 
 /**
  *
- * @author nanda
+ * @author
+ * NAMA     : Rinanda Al Qorrie Akbar
+ * NIM      : 10116458 
  */
 public class PBOUlang10116458Latihan17ProgramTunjangan {
 
